@@ -89,14 +89,5 @@ Ces défis permettent de pratiquer :
 ## Notes
 
 - Tous les notebooks sont exécutables et contiennent du code fonctionnel
-- Les solutions sont commentées pour faciliter la compréhension
 - Certains défis peuvent nécessiter l'installation de bibliothèques (numpy, pandas)
-
-## Utilisation
-
-Pour exécuter les notebooks :
-1. Assurez-vous d'avoir installé les dépendances nécessaires (numpy, pandas, jupyter)
-2. Ouvrez le notebook dans Jupyter ou JupyterLab
-3. Exécutez les cellules dans l'ordre
-4. Explorez et modifiez le code pour mieux comprendre les concepts
 
